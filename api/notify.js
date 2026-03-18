@@ -6,7 +6,7 @@ return res.status(405).json({ error: "Method not allowed" })
 
 const data = req.body
 
-const WEBHOOK = "https://discord.com/api/webhooks/1455084311698214934/KvZgFXn0S-jdon25qGwbayS3JXwFexW70nKpgvSe6jCUCIMcpIBuy30CI5C2oLpxZf90"
+const WEBHOOK = "https://discord.com/api/webhooks/1483709752130404482/5kY0r-v2Ao1bp-GKAOOlPdNmfhzZ7RSEpLry1na7ciEyEmLf_j16FmkId64IpQeQObl_"
 
 const payload = {
 embeds: [
